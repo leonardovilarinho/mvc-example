@@ -8,5 +8,10 @@
             "email": "leonardo-i@outlook.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "source"
+        }
+    },
     "require": {}
 }
